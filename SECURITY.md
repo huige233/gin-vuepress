@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues to qimiaojiangjizhao@gmail.com
+Please report security issues to github(https://github.com/huige233/gin-vuepress)
